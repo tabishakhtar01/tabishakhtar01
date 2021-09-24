@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I work as a Software Engineer Intern at [BigBinary](https://www.bigbinary.com). 
+- 🔭 &nbsp; I work as a Software Developer Engineer - Frontend at [MyGlamm](https://www.myglamm.com/about-us). 
 - 🤔 &nbsp; Exploring new technologies and developing web apps.
 - 🎓 &nbsp; Graduated with Bachelor's degree in Computer Science and Engineering.
 
